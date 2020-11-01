@@ -1,1 +1,1 @@
-# Crop-the-Image
+No need of any libraries.
